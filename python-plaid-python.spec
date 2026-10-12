@@ -1,6 +1,6 @@
 Name:		python-plaid-python
 Version:	7.2.1
-Release:	1
+Release:	2
 Summary:	Python client library for the Plaid API and Link
 License:	MIT
 Group:		Development/Python
